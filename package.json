@@ -1,0 +1,15 @@
+{
+  "name": "backend-for-learning-reduxjs-toolkit",
+  "version": "1.0.0",
+  "description": "Backend for learning reduxjs/toolkit",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Mathius",
+  "license": "MIT"
+}
